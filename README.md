@@ -9,6 +9,10 @@ Implementation of [SHA-1](https://en.wikipedia.org/wiki/SHA-1) Algorithm in C++.
 - Clone the repository with the raw code
 - Run the .exe file in the directory to test the algorithm
 
+### Sample Output generated
+
+![alt text](CSOE_SHA_Output.png)
+
 ### License
 
 100% Public Domain and can be open-sourced
