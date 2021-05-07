@@ -1,14 +1,19 @@
-* SHA-1 implementation in C++
+## SHA-1 implementation in C++
+------
 
-** Warning
 
-Do not use SHA-1 unless you have to! [[https://en.wikipedia.org/wiki/SHA-1#Birthday-Near-Collision_Attack_%E2%80%93_first_practical_chosen-prefix_attack][SHA-1 is practically broken]]. Use a hash function from the [[https://en.wikipedia.org/wiki/SHA-2][SHA-2]] or [[https://en.wikipedia.org/wiki/SHA-3][SHA-3]] family instead.
+## Synopsis
 
-** License
+Implementation of [SHA-1](https://en.wikipedia.org/wiki/SHA-1) Algorithm in C++. To run/test the program:
 
-100% Public Domain
+- Clone the repository with the raw code
+- Run the .exe file in the directory to test the algorithm
 
-** Authors
+### License
+
+100% Public Domain and can be open-sourced
+
+### References
 
 - Steve Reid (Original C Code)
 - [[http://untroubled.org/][Bruce Guenter]] (Small changes to fit into bglibs)
